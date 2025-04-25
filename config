@@ -1,5 +1,5 @@
 {
-  "Version":"1",
+  "Version":"2",
   "Update":"https://raw.githubusercontent.com/pacstore/PacSSH/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/pacstore/PacSSH/refs/heads/main/sms",
@@ -11,9 +11,9 @@
          "Color": "#ffffff",
          "ColorDescription": "#000000",
          "ColorName": "#000000",
-         "Description": "AI QUE TUDO",
+         "Description": "SERVIDOR BR",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "Name":"SERVIDOR DO AMVOX",
+         "Name":"PacSSH BR",
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
@@ -22,36 +22,6 @@
          "TYPE":"premium",
          "CheckUser": "http://172.233.17.8:5454/checkUser"
       },
-      {
-         "Color": "#ffffff",
-         "ColorDescription": "#000000",
-         "ColorName": "#000000",
-         "Description": "AI QUE DILIÇA",
-         "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "Name":"SERVIDOR DO COUTY",
-         "USER":"",
-         "PASS":"",
-         "SSLPort":"443",
-         "ServerIP":"vpn01.ref99.shop", 
-         "ServerPort":"80",
-         "TYPE":"premium",
-         "CheckUser": "http://172.233.17.8:5454/checkUser"
-      },
-      {
-         "Color": "#ffffff",
-         "ColorDescription": "#000000",
-         "ColorName": "#000000",
-         "Description": "BR",
-         "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "Name":"SERVIDOR WILL BELÉM/PA",
-         "USER":"",
-         "PASS":"",
-         "SSLPort":"443",
-         "ServerIP":"dspeed.xyz", 
-         "ServerPort":"80",
-         "TYPE":"premium",
-         "CheckUser": "http://204.216.150.175:2053/checkUser"
-      }
   ],
 "Networks": [
        {
