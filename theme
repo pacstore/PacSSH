@@ -1,8 +1,8 @@
 {
-  "Version": "2",
+  "Version": "3",
   "Update": "https://raw.githubusercontent.com/pacstore/PacSSH/refs/heads/main/theme",
   "AppName": "PacSSH",
-  "ImgLogo": "https://i.imgur.com/0doocTN.png",
+  "ImgLogo": "https://i.imgur.com/nezINYV.png",
   "ImgFundo": "https://i.imgur.com/Fduffh0.jpeg",
   "ImgBanner": "",
   "ImgMenu": "https://telegra.ph/file/828fa0ae4f65228764d39.png",
