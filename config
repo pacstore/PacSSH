@@ -1,5 +1,5 @@
 {
-  "Version":"2.0.1",
+  "Version":"2.0.2",
   "Update":"https://raw.githubusercontent.com/pacstore/PacSSH/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/pacstore/PacSSH/refs/heads/main/sms",
@@ -17,7 +17,7 @@
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"br.amvoxnet.shop", 
+         "ServerIP":"b5peert-581834686703.southamerica-east1.run.app", 
          "ServerPort":"80",
          "TYPE":"premium",
          "CheckUser": "http://172.233.17.8:5454/checkUser"
