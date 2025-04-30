@@ -1,5 +1,5 @@
 {
-  "Version":"2.0.5",
+  "Version":"30.0.5",
   "Update":"https://raw.githubusercontent.com/pacstore/PacSSH/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/pacstore/PacSSH/refs/heads/main/sms",
